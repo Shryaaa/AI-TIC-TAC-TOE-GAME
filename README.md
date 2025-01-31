@@ -1,27 +1,27 @@
-![](https://img.shields.io/badge/Programming_Language-Python-blue.svg)
-![](https://img.shields.io/badge/Tool_Used-Tkinter-gold.svg)
-![](https://img.shields.io/badge/Game-Tic_Tac_Toe-yellow.svg)
-![](https://img.shields.io/badge/Mode-AI-orange.svg)
-![](https://img.shields.io/badge/Python_Version-3.7-brown.svg)
-![](https://img.shields.io/badge/Status-Complete-green.svg)
+✨ Features:
+🎭 Multiple Game Modes: Play against a friend or challenge an AI opponent.
+🧠 Smart AI: The AI uses the Minimax algorithm for optimal gameplay.
+🎨 Custom UI: A well-designed interface with a stylish color scheme.
+🔄 Reset Functionality: Easily restart the game for another round.
+🛠️ Tech Stack:
+Python 🐍
+Tkinter 🎨 (for GUI)
+AI with Minimax Algorithm 🤖
+📌 How to Run:
+Clone the repository:
+bash
+Copy
+Edit
+git clone https://github.com/Shryaaa/AI-TIC-TAC-TOE-GAME.git
+Navigate to the project folder:
+bash
+Copy
+Edit
+cd AI-TIC-TAC-TOE-GAME
+Run the script:
+bash
+Copy
+Edit
+python tic_tac_toe.py
+🔗 Check out the repository: AI-TIC-TAC-TOE-GAME
 
-<h3 align="center"> ❤️ Welcome Developers ❤️  </h3>
-
-### <p align="center">  	😮 Introducing My New Game made in Python 	😮 </p>
-
-
-
-###  <p align="center">	😲 Yes, This is an AI Tic-Tac-Toe Game made by Python(Version 3) Tkinter 	😲</p>
-
----
-
-<h3 align="center"><b>🙄 But What Special 😳</b></h3>
-
-<h3 align="center"> 😲 <i>You Can Play With Your Computer</i> 😲 </h3>
-<h3 align="center">	😳<b> Special Facility</b> 😳</h3>
-<h3 align="center">1. Machine Vs Human 👉  Machine get the first chance to play</h3>
-<h3 align="center">2. Human Vs Machine 👉  Human Get the first chance to play</h3>
-<h3 align="center"><b>Show 💘 by Starring this Repo</b></h3>
-
-
-<h2 align="center"><b>❤️ Thank You For Visiting 🙏, Have a Nice Day ❤️</b></h2>
