@@ -1,62 +1,33 @@
-# AI-TIC-TAC-TOE-GAME
+![](https://img.shields.io/badge/Programming_Language-Python-blue.svg)
+![](https://img.shields.io/badge/Tool_Used-Tkinter-gold.svg)
+![](https://img.shields.io/badge/Game-Tic_Tac_Toe-yellow.svg)
+![](https://img.shields.io/badge/Mode-AI-orange.svg)
+![](https://img.shields.io/badge/Python_Version-3.7-brown.svg)
+![](https://img.shields.io/badge/Status-Complete-green.svg)
 
-Here's a well-structured **GitHub project description** for your **AI Tic-Tac-Toe** game:  
+<h3 align="center"> ❤️ Welcome Developers ❤️  </h3>
+
+### <p align="center">  	😮 Introducing My New Game made in Python 	😮 </p>
+
+<p align="center"><img src="game_gif.gif"></p>
+
+###  <p align="center">	😲 Yes, This is an AI Tic-Tac-Toe Game made by Python(Version 3) Tkinter 	😲</p>
 
 ---
 
-# 🎮 AI Tic-Tac-Toe 🏆  
+<h3 align="center"><b>🙄 But What Special 😳</b></h3>
 
-An advanced **Tic-Tac-Toe** game built using **Python and Tkinter**, featuring an AI opponent with strategic gameplay. The project provides a sleek **GUI design**, a refined **user experience**, and multiple game modes.
+<h3 align="center"> 😲 <i>You Can Play With Your Computer</i> 😲 </h3>
+<h3 align="center">	😳<b> Special Facility</b> 😳</h3>
+<h3 align="center">1. Machine Vs Human 👉  Machine get the first chance to play</h3>
+<h3 align="center">2. Human Vs Machine 👉  Human Get the first chance to play</h3>
+<h3 align="center"><b>Show 💘 by Starring this Repo</b></h3>
 
-## 🚀 Features  
+---
+<h3 align="center">💡 <b>Important Links</b> 💡</h3>
 
-✅ **AI-Powered Gameplay** – Play against an AI opponent with smart move selection  
-✅ **Player vs. Player Mode** – Compete with a friend in a local multiplayer mode  
-✅ **Modern UI Design** – Clean and stylish interface with elegant colors  
-✅ **Game Status Display** – Dynamic updates on wins, draws, and ongoing matches  
-✅ **Smart Move Logic** – AI analyzes the board for the best possible move  
-✅ **Restart & Reset Options** – Easily reset the game for a new round  
+- #### [Click Here to See the Project Video](https://youtu.be/eDpWs09ZGvI)
 
-## 🖥️ Tech Stack  
+- #### [Follow Me on LinkedIn to Get Project Updates](https://www.linkedin.com/in/samarpan-dasgupta-4aa1061b0/ "LCO")
 
-- **Python** – Core logic and AI algorithm  
-- **Tkinter** – GUI design for an interactive user experience  
-- **Minimax Algorithm** – AI decision-making strategy  
-
-## 📸 Screenshots  
-
-(Add screenshots or GIFs of your Tic-Tac-Toe game here!)
-
-## 🔧 Installation & Usage  
-
-1️⃣ Clone the repository:  
-```bash
-git clone https://github.com/your-username/AI-Tic-Tac-Toe.git
-cd AI-Tic-Tac-Toe
-```  
-2️⃣ Install dependencies (if any):  
-```bash
-pip install -r requirements.txt
-```  
-3️⃣ Run the game:  
-```bash
-python tic_tac_toe.py
-```  
-
-## 🎯 How the AI Works  
-
-The AI is built using the **Minimax Algorithm**, which evaluates all possible moves and picks the best one to maximize its chances of winning. It ensures optimal play and makes it challenging for the user.
-
-## 📌 Future Improvements  
-
-🔹 Add difficulty levels (Easy, Medium, Hard)  
-🔹 Implement online multiplayer mode  
-🔹 Improve UI with animations  
-
-## 🤝 Contributing  
-
-Contributions are welcome! Feel free to **fork** this repo, make changes, and submit a **pull request**.  
-
-## 📜 License  
-
-This project is licensed under the **MIT License** – feel free to use and modify it.  
+<h2 align="center"><b>❤️ Thank You For Visiting 🙏, Have a Nice Day ❤️</b></h2>
